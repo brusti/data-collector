@@ -1,0 +1,13 @@
+https://www.googleapis.com/customsearch/v1?key=AIzaSyChsdkfLuT08I-R7uufqvVxZS7OpQD3W2Q&cx=004975013161726427879:4vfb7hajvjq&q=test
+<script>
+  (function() {
+    var cx = '004975013161726427879:4vfb7hajvjq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>

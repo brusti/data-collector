@@ -1,0 +1,427 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - a",
+    "totalResults": "673000000",
+    "searchTerms": "a",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "004975013161726427879:4vfb7hajvjq"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - a",
+    "totalResults": "673000000",
+    "searchTerms": "a",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "004975013161726427879:4vfb7hajvjq"
+   }
+  ]
+ },
+ "context": {
+  "title": "all"
+ },
+ "searchInformation": {
+  "searchTime": 0.52315,
+  "formattedSearchTime": "0.52",
+  "totalResults": "673000000",
+  "formattedTotalResults": "673,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Watch how a father used YouTube to make his daughter a better ...",
+   "htmlTitle": "Watch how \u003cb\u003ea\u003c/b\u003e father used YouTube to make his daughter \u003cb\u003ea\u003c/b\u003e better ...",
+   "link": "https://www.google.com/about/stories/eyes/",
+   "displayLink": "www.google.com",
+   "snippet": "Liberty Collins was born with microphthalmia, which causes partial blindness and \nleft her with one eye significantly smaller than the other. She was in immediate \nneed of a prosthesis, as the pressure from the eyes assists with facial growth \nduring early childhood. A prosthetic eye is not just cosmetic - without one, the \nface ...",
+   "htmlSnippet": "Liberty Collins was born with microphthalmia, which causes partial blindness and \u003cbr\u003e\nleft her with one eye significantly smaller than the other. She was in immediate \u003cbr\u003e\nneed of \u003cb\u003ea\u003c/b\u003e prosthesis, as the pressure from the eyes assists with facial growth \u003cbr\u003e\nduring early childhood. \u003cb\u003eA\u003c/b\u003e prosthetic eye is not just cosmetic - without one, the \u003cbr\u003e\nface&nbsp;...",
+   "cacheId": "S1QAdWr1CwgJ",
+   "formattedUrl": "https://www.google.com/about/stories/eyes/",
+   "htmlFormattedUrl": "https://www.google.com/about/stories/eyes/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh2NZBjxHDkj9OGwwLrRkrUcQI1k7dM5V5hWIotDL_L-1iDklOKAyR1LQ"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+      "og:description": "When all else failed, former oil rig worker Dwayne Collins taught himself how to make his daughter the prosthetic eye she needed.",
+      "og:title": "Watch how a father used YouTube to make his daughter a better prosthetic eye. | Google",
+      "og:image": "https://lh3.googleusercontent.com/4DM0KBNbTP7AfJUXS3qJAQgqqTq_Z-sBNkzi4woT9dHC2XElbyese3D9qmXIvP4lXHeXop2QOUiFN0Zc1Xo18wrx_ti7_mLvMdymnA=w600-l80-sg-rj",
+      "og:image:width": "600",
+      "og:image:height": "337",
+      "og:type": "website",
+      "twitter:card": "//www.google.com/about/stories/eyes/",
+      "twitter:site": "@google",
+      "twitter:title": "Watch how a father used YouTube to make his daughter a better prosthetic eye. | Google",
+      "twitter:description": "Watch how a father used YouTube to make his daughter a better prosthetic eye.",
+      "twitter:image": "https://lh3.googleusercontent.com/4DM0KBNbTP7AfJUXS3qJAQgqqTq_Z-sBNkzi4woT9dHC2XElbyese3D9qmXIvP4lXHeXop2QOUiFN0Zc1Xo18wrx_ti7_mLvMdymnA=w600-l80-sg-rj"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/4DM0KBNbTP7AfJUXS3qJAQgqqTq_Z-sBNkzi4woT9dHC2XElbyese3D9qmXIvP4lXHeXop2QOUiFN0Zc1Xo18wrx_ti7_mLvMdymnA=w600-l80-sg-rj"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Chrome Privacy Whitepaper",
+   "htmlTitle": "Google Chrome Privacy Whitepaper",
+   "link": "https://www.google.com/chrome/browser/privacy/whitepaper.html",
+   "displayLink": "www.google.com",
+   "snippet": "Additionally, when you use the omnibox to search for a single word, Chrome may \nsend this word to your DNS server to see whether it corresponds to a host on \nyour network, and may try to connect to the corresponding host. This gives you \nthe option to navigate to that host instead of searching. For example, if your router\n ...",
+   "htmlSnippet": "Additionally, when you use the omnibox to search for \u003cb\u003ea\u003c/b\u003e single word, Chrome may \u003cbr\u003e\nsend this word to your DNS server to see whether it corresponds to \u003cb\u003ea\u003c/b\u003e host on \u003cbr\u003e\nyour network, and may try to connect to the corresponding host. This gives you \u003cbr\u003e\nthe option to navigate to that host instead of searching. For example, if your router\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "L8Qe7m7dvkcJ",
+   "formattedUrl": "https://www.google.com/chrome/browser/privacy/whitepaper.html",
+   "htmlFormattedUrl": "https://www.google.com/chrome/browser/privacy/whitepaper.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "228",
+      "height": "221",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz8m58v9aMFs9x6SNoorxIeOpLpBOvFVnE61S0fTCal4tFswkzUTqQDfgO"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/chrome/assets/common/images/screenshots/privacy/03-malware.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Key terms – Privacy & Terms – Google",
+   "htmlTitle": "Key terms – Privacy &amp; Terms – Google",
+   "link": "https://www.google.com/policies/privacy/key-terms/",
+   "displayLink": "www.google.com",
+   "snippet": "A cookie is a small file containing a string of characters that is sent to your \ncomputer when you visit a website. When you visit the website again, the cookie \nallows that site to recognize your browser. Cookies may store user preferences \nand other information. You can reset your browser to refuse all cookies or to \nindicate ...",
+   "htmlSnippet": "\u003cb\u003eA\u003c/b\u003e cookie is \u003cb\u003ea\u003c/b\u003e small file containing \u003cb\u003ea\u003c/b\u003e string of characters that is sent to your \u003cbr\u003e\ncomputer when you visit \u003cb\u003ea\u003c/b\u003e website. When you visit the website again, the cookie \u003cbr\u003e\nallows that site to recognize your browser. Cookies may store user preferences \u003cbr\u003e\nand other information. You can reset your browser to refuse all cookies or to \u003cbr\u003e\nindicate&nbsp;...",
+   "cacheId": "Q9dzc_vWRdMJ",
+   "formattedUrl": "https://www.google.com/policies/privacy/key-terms/",
+   "htmlFormattedUrl": "https://www.google.com/policies/privacy/key-terms/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Forms - create and analyze surveys, for free.",
+   "htmlTitle": "Google Forms - create and analyze surveys, for free.",
+   "link": "https://www.google.com/forms/about/",
+   "displayLink": "www.google.com",
+   "snippet": "Create a new survey on your own or with others at the same time. Choose from a \nvariety of beautiful, pre-made themes or create your own. Analyze your results in \nGoogle Forms. Free from Google.",
+   "htmlSnippet": "Create \u003cb\u003ea\u003c/b\u003e new survey on your own or with others at the same time. Choose from \u003cb\u003ea\u003c/b\u003e \u003cbr\u003e\nvariety of beautiful, pre-made themes or create your own. Analyze your results in \u003cbr\u003e\nGoogle Forms. Free from Google.",
+   "cacheId": "DQBEwPZfQ7YJ",
+   "formattedUrl": "https://www.google.com/forms/about/",
+   "htmlFormattedUrl": "https://www.google.com/forms/about/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Steve Smith can be a great leader still – but Warner failings will ...",
+   "htmlTitle": "Steve Smith can be \u003cb\u003ea\u003c/b\u003e great leader still – but Warner failings will ...",
+   "link": "https://www.google.com/appserve/mkt/p/AFIPhzVPsacfrDegVWwcMpgm5PcbzHZ8ohRbWA0FWnuqKQNNgaZuEO_Piz-t8l2Xtoq1gH3HXJrzPQSdtil4h7m2tMqAHtkZiMS1LP_HWV7c6rj1NbMxNvKY_LbiEYLyqhxPfBmhsiEEyHkvvIkg3UiEz7LfONf2TWSwJYMs6GoQ1mgaSveceAMLA_hW3b1JxFKbCTz_pmhhZQys8mOLqJJdcwofVeIjro_Ysw",
+   "displayLink": "www.google.com",
+   "snippet": "1 day ago ... Take a look through Steve Smith's Instagram. There, you'll find a series of quite \nbeautiful pictures taken from high in the sky above beaches and cities and empty \ncricket grounds. Smith loves his drone and the photos it allows him to capture \nfrom all sorts of places. He's proud of the shots and enjoys talking ...",
+   "htmlSnippet": "1 day ago \u003cb\u003e...\u003c/b\u003e Take \u003cb\u003ea\u003c/b\u003e look through Steve Smith&#39;s Instagram. There, you&#39;ll find \u003cb\u003ea\u003c/b\u003e series of quite \u003cbr\u003e\nbeautiful pictures taken from high in the sky above beaches and cities and empty \u003cbr\u003e\ncricket grounds. Smith loves his drone and the photos it allows him to capture \u003cbr\u003e\nfrom all sorts of places. He&#39;s proud of the shots and enjoys talking&nbsp;...",
+   "cacheId": "7fcEqikDCFIJ",
+   "formattedUrl": "https://www.google.com/.../ AFIPhzVPsacfrDegVWwcMpgm5PcbzHZ8ohRbWA0FWnuqKQN...",
+   "htmlFormattedUrl": "https://www.google.com/.../ AFIPhzVPsacfrDegVWwcMpgm5PcbzHZ8ohRbWA0FWnuqKQN...",
+   "pagemap": {
+    "thumbnail": [
+     {
+      "src": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=620&q=55&auto=format&usm=12&fit=max&s=3c2a08203471471dea5218a2172dfb45"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "handheldfriendly": "True",
+      "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+      "apple-mobile-web-app-title": "Guardian",
+      "application-name": "The Guardian",
+      "msapplication-tilecolor": "#e7edef",
+      "theme-color": "#e7edef",
+      "msapplication-tileimage": "https://assets.guim.co.uk/images/favicons/77beb32f01ee0157ec193e09e4e18c4e/windows_tile_144_b.png",
+      "apple-itunes-app": "app-id=409128287, app-argument=https://www.theguardian.com/sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him, affiliate-data=ct=newsmartappbanner&pt=304191",
+      "author": "Adam Collins",
+      "thumbnail": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=620&q=55&auto=format&usm=12&fit=max&s=3c2a08203471471dea5218a2172dfb45",
+      "news_keywords": "Steve Smith,Australia cricket team,Australian ball tampering,Cricket,Australia sport,Sport",
+      "og:url": "http://www.theguardian.com/sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him",
+      "article:author": "https://www.theguardian.com/profile/adam-collins",
+      "og:image:height": "720",
+      "og:description": "Former Australia captain just wants to play cricket but redemption story will have to wait after others let him down",
+      "og:image:width": "1200",
+      "og:image": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&s=7a72db29a8c709ccf0112eb6f715d40d",
+      "al:ios:url": "gnmguardian://sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him?contenttype=Article&source=applinks",
+      "article:publisher": "https://www.facebook.com/theguardian",
+      "og:type": "article",
+      "al:ios:app_store_id": "409128287",
+      "article:section": "Sport",
+      "article:published_time": "2018-03-30T01:00:06.000Z",
+      "og:title": "Steve Smith can be a great leader still – but Warner failings will haunt him | Adam Collins",
+      "fb:app_id": "180444840287",
+      "article:tag": "Steve Smith,Australia cricket team,Australian ball tampering,Cricket,Australia sport,Sport",
+      "al:ios:app_name": "The Guardian",
+      "og:site_name": "the Guardian",
+      "article:modified_time": "2018-03-30T02:04:18.000Z",
+      "twitter:app:id:iphone": "409128287",
+      "twitter:app:name:googleplay": "The Guardian",
+      "twitter:app:name:ipad": "The Guardian",
+      "twitter:image": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS90d2l0dGVyX2RlZmF1bHQucG5n&s=2e5e01308f52843318c50e58f2996b4e",
+      "twitter:site": "@guardian",
+      "twitter:app:url:ipad": "gnmguardian://sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him?contenttype=Article&source=twitter",
+      "twitter:card": "summary_large_image",
+      "twitter:app:name:iphone": "The Guardian",
+      "twitter:creator": "@collinsadam",
+      "twitter:app:id:ipad": "409128287",
+      "twitter:app:id:googleplay": "com.guardian",
+      "twitter:app:url:googleplay": "guardian://www.theguardian.com/sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him",
+      "twitter:app:url:iphone": "gnmguardian://sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him?contenttype=Article&source=twitter",
+      "twitter:dnt": "on",
+      "fb:pages": "10513336322"
+     }
+    ],
+    "newsarticle": [
+     {
+      "mainentityofpage": "https://www.theguardian.com/sport/2018/mar/30/steve-smith-can-be-a-great-leader-still-but-warner-failings-will-haunt-him",
+      "headline": "Steve Smith can be a great leader still – but Warner failings will haunt him",
+      "description": "Former Australia captain just wants to play cricket but redemption story will have to wait after others let him down",
+      "datepublished": "2018-03-29T21:00:06-0400",
+      "datemodified": "2018-03-29T22:04:18-0400",
+      "articlebody": "Take a look through Steve Smith’s Instagram. There, you’ll find a series of quite beautiful pictures taken from high in the sky above beaches and cities and empty cricket grounds. Smith...",
+      "contenturl": "https://i.guim.co.uk/img/media/717201d1cb4914adddcda8677cc03bf34fd6fe69/0_44_2592_1556/master/2592.jpg?w=460&q=55&auto=format&usm=12&fit=max&s=49557d01820b8ed21156fffcbaaead0e"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png",
+      "width": "190",
+      "height": "60"
+     },
+     {
+      "representativeofpage": "true",
+      "url": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=700&q=55&auto=format&usm=12&fit=max&s=ff3a1f9f61f03550ab798ed3c2678591",
+      "width": "5370",
+      "height": "3222",
+      "contenturl": "https://i.guim.co.uk/img/media/2312961cfd964bfe96577f576089a2e06e4aaf90/0_325_5370_3222/master/5370.jpg?w=300&q=55&auto=format&usm=12&fit=max&s=3600f0a48f01ce283123b6db961818fa",
+      "description": "Steve Smith addresses the media with his father Peter in an emotional press conference at Sydney airport. Photograph: Brendan Esposito/EPA"
+     }
+    ],
+    "person": [
+     {
+      "sameas": "Adam Collins",
+      "name": "Adam Collins"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The Guardian",
+      "sameas": "https://www.theguardian.com/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.guim.co.uk/img/media/c2a615b871c259a0297b0cc8fb81c396560b6478/0_271_3966_2380/master/3966.jpg?w=300&q=55&auto=format&usm=12&fit=max&s=dd92660db3757836f73a4a7331140e1b",
+      "type": "1",
+      "width": "290",
+      "height": "174"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Create a Free Website For Your Business - Google My Business",
+   "htmlTitle": "Create \u003cb\u003ea\u003c/b\u003e Free Website For Your Business - Google My Business",
+   "link": "https://www.google.com/business/how-it-works/website/",
+   "displayLink": "www.google.com",
+   "snippet": "Create a simple website for your business in three simple steps. From your \ncomputer or your phone with the free website builder from Google My Business.",
+   "htmlSnippet": "Create \u003cb\u003ea\u003c/b\u003e simple website for your business in three simple steps. From your \u003cbr\u003e\ncomputer or your phone with the free website builder from Google My Business.",
+   "cacheId": "KXruojQbGtwJ",
+   "formattedUrl": "https://www.google.com/business/how-it-works/website/",
+   "htmlFormattedUrl": "https://www.google.com/business/how-it-works/website/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Chrome – Adatvédelmi tanulmány",
+   "htmlTitle": "Google Chrome – Adatvédelmi tanulmány",
+   "link": "https://www.google.com/intl/hu/chrome/browser/privacy/whitepaper.html",
+   "displayLink": "www.google.com",
+   "snippet": "Ez a dokumentum a Chrome azon funkcióit írja le, amelyek a Google vagy \nvalamelyik harmadik fél szolgáltatásaival kommunikálnak (például ha \nmódosította az alapértelmezett keresőmotort). A dokumentum tájékoztatást nyújt \nannak a szabályozásáról is, hogy a Chrome miként használhatja fel az Ön \nadatait. Ebben a ...",
+   "htmlSnippet": "Ez \u003cb\u003ea\u003c/b\u003e dokumentum \u003cb\u003ea\u003c/b\u003e Chrome azon funkcióit írja le, amelyek \u003cb\u003ea\u003c/b\u003e Google vagy \u003cbr\u003e\nvalamelyik harmadik fél szolgáltatásaival kommunikálnak (például ha \u003cbr\u003e\nmódosította az alapértelmezett keresőmotort). \u003cb\u003eA\u003c/b\u003e dokumentum tájékoztatást nyújt \u003cbr\u003e\nannak \u003cb\u003ea\u003c/b\u003e szabályozásáról is, hogy \u003cb\u003ea\u003c/b\u003e Chrome miként használhatja fel az Ön \u003cbr\u003e\nadatait. Ebben \u003cb\u003ea\u003c/b\u003e&nbsp;...",
+   "cacheId": "d46dIfBqGdAJ",
+   "formattedUrl": "https://www.google.com/intl/hu/chrome/browser/.../whitepaper.html",
+   "htmlFormattedUrl": "https://www.google.com/intl/hu/chrome/browser/.../whitepaper.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "228",
+      "height": "221",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQprV-DVf-apPwTq2TjbubwlpgasAxcW7wGqaa8TZouc67h05iYriVm_Hs"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/intl/hu/chrome/assets/common/images/screenshots/privacy/03-malware.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gmail – ingyenes tárhely és e-mail a Google-tól",
+   "htmlTitle": "Gmail – ingyenes tárhely és e-mail \u003cb\u003ea\u003c/b\u003e Google-tól",
+   "link": "https://www.google.com/intl/hu/gmail/about/",
+   "displayLink": "www.google.com",
+   "snippet": "A Gmail minden eszközön használható, legyen szó Android- vagy iOS-eszközről, \nilletve számítógépről. Minden platformon a postaláda elhagyása nélkül \nrendszerezheti a leveleket, működhet együtt másokkal vagy hívhatja fel \nismerőseit.",
+   "htmlSnippet": "\u003cb\u003eA\u003c/b\u003e Gmail minden eszközön használható, legyen szó Android- vagy iOS-eszközről, \u003cbr\u003e\nilletve számítógépről. Minden platformon \u003cb\u003ea\u003c/b\u003e postaláda elhagyása nélkül \u003cbr\u003e\nrendszerezheti \u003cb\u003ea\u003c/b\u003e leveleket, működhet együtt másokkal vagy hívhatja fel \u003cbr\u003e\nismerőseit.",
+   "cacheId": "FOckEwBL4QYJ",
+   "formattedUrl": "https://www.google.com/intl/hu/gmail/about/",
+   "htmlFormattedUrl": "https://www.google.com/intl/hu/gmail/about/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "268",
+      "height": "188",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33BJ7wyj0FNDds5ZC3fxffKZkYSzQDyT5kcM_Dao9czSJAsBWbDpSPWc"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "og:type": "website",
+      "og:url": "http://www.google.com/gmail/about/",
+      "og:title": "Gmail – ingyenes tárhely és e-mail a Google-tól",
+      "og:image": "//www.google.com/gmail/about/static/images/social.jpg",
+      "og:site_name": "Gmail – ingyenes tárhely és e-mail a Google-tól"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/intl/hu_ALL/gmail/about/bettercompose_2x.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Create Street View in a Snap – Google Street View",
+   "htmlTitle": "Create Street View in \u003cb\u003ea\u003c/b\u003e Snap – Google Street View",
+   "link": "https://www.google.com/streetview/publish/",
+   "displayLink": "www.google.com",
+   "snippet": "It's never been easier to create Street View experiences. Whether you're using a \n360 camera, the Street View app, a DSLR, or borrowing a Street View camera, \nwe've got you covered with simple publishing tools.",
+   "htmlSnippet": "It&#39;s never been easier to create Street View experiences. Whether you&#39;re using \u003cb\u003ea\u003c/b\u003e \u003cbr\u003e\n360 camera, the Street View app, \u003cb\u003ea\u003c/b\u003e DSLR, or borrowing \u003cb\u003ea\u003c/b\u003e Street View camera, \u003cbr\u003e\nwe&#39;ve got you covered with simple publishing tools.",
+   "cacheId": "88cvqrbeRCkJ",
+   "formattedUrl": "https://www.google.com/streetview/publish/",
+   "htmlFormattedUrl": "https://www.google.com/streetview/publish/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "311",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SZufrGwIT6CQc8N79yU004TXtJ5QPyknmz49hnUVz-oEyM24V990RT9z"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:card": "summary",
+      "twitter:site": "@googlemaps",
+      "twitter:title": "Google Street View – Create Street View in a Snap",
+      "twitter:description": "It’s never been easier to create Street View experiences. Whether you’re using a 360 camera, the Street View app, a DSLR, or borrowing a Street View camera, we’ve got you covered with simple publishing tools.",
+      "twitter:image:src": "https://www.google.com/streetview/images/publish/social-twitter.jpg",
+      "og:type": "article",
+      "og:image": "https://www.google.com/streetview/images/publish/social-facebook.jpg",
+      "og:title": "Google Street View – Create Street View in a Snap",
+      "og:description": "It’s never been easier to create Street View experiences. Whether you’re using a 360 camera, the Street View app, a DSLR, or borrowing a Street View camera, we’ve got you covered with simple publishing tools.",
+      "og:site_name": "Google Street View",
+      "apple-itunes-app": "app-id=904418768"
+     }
+    ],
+    "article": [
+     {
+      "name": "Google Street View – Create Street View in a Snap",
+      "description": "It’s never been easier to create Street View experiences. Whether you’re using a 360 camera, the Street View app, a DSLR, or borrowing a Street View camera, we’ve got you covered with...",
+      "image": "https://www.google.com/streetview/images/publish/social-google.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/streetview/images/publish/social-facebook.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Analytics Solutions - Marketing Analytics & Measurement",
+   "htmlTitle": "Google Analytics Solutions - Marketing Analytics &amp; Measurement",
+   "link": "https://www.google.com/analytics/",
+   "displayLink": "www.google.com",
+   "snippet": "Advanced solutions for large companies. Introducing the Google Analytics 360 \nSuite, a set of integrated data and marketing analytics products designed for the \nneeds of marketers in the world's largest companies. Learn More ...",
+   "htmlSnippet": "Advanced solutions for large companies. Introducing the Google Analytics 360 \u003cbr\u003e\nSuite, \u003cb\u003ea\u003c/b\u003e set of integrated data and marketing analytics products designed for the \u003cbr\u003e\nneeds of marketers in the world&#39;s largest companies. Learn More&nbsp;...",
+   "cacheId": "xmI7o1XNl8kJ",
+   "formattedUrl": "https://www.google.com/analytics/",
+   "htmlFormattedUrl": "https://www.google.com/analytics/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  }
+ ]
+}
